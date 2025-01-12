@@ -1,0 +1,7 @@
+body {
+    display: flex;
+    justify-content: center; /* Pusatkan secara horizontal */
+    align-items: center; /* Pusatkan secara vertikal */
+    height: 100vh; /* Tinggi 100% dari viewport */
+    margin: 0; /* Hilangkan margin default */
+}
