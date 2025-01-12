@@ -1,2 +1,2 @@
-# belajar-git-github
+# sinus
 pertemuan 1
