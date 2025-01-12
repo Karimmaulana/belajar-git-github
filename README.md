@@ -1,2 +1,2 @@
 # sinus
-pertemuan 1
+
